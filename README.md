@@ -36,6 +36,7 @@ Transactions are evenly distributed across different payment methods:
 
 ### Sales by Mobile Model
 Top 3 Total sales by Mobile model:
+
 ![image](https://github.com/user-attachments/assets/37ba9a21-d22f-4a00-a72d-e0d517e432d6)
 
 
