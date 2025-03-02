@@ -45,6 +45,21 @@ The sales distribution across days of the week is even:
 
 ![image](https://github.com/user-attachments/assets/48b3b490-2691-44e8-98b2-a2d5bca8dd2e)
 
+### Total Sales and Same period last year by year 
+
+![image](https://github.com/user-attachments/assets/f63b9e39-f7d4-4e50-94e9-70d300eb1d48)
+
+
+###  Total Sales and Same period last year by year and quarter
+
+![image](https://github.com/user-attachments/assets/c127a82b-53c9-43ae-a50d-740db2981a02)
+
+
+###  Total Sales and Same period last year by year and Month
+
+![image](https://github.com/user-attachments/assets/1b6ee55b-7f49-4dd4-af96-96c95eedbb66)
+
+
 
 ---
 
