@@ -13,60 +13,37 @@ The Mobile Sales Dashboard provides a comprehensive analysis of mobile sales, pr
 
 ### Sales by City
 The total sales are distributed across several cities as follows:
-- **Delhi**: ₹213.14M (27.7%)
-- **Mumbai**: ₹201.38M (26.2%)
-- **Ranchi**: ₹127.74M (16.6%)
-- **Other Cities**: ₹227.94M (29.6%)
-
 
 ![image](https://github.com/user-attachments/assets/dab0c363-a850-4570-ab2b-294a580b9f58)
 
 
 ### Monthly Quantity Sales
 The quantity of mobile units sold each month is relatively consistent throughout the year:
-- **January**: 1,600 units
-- **February**: 1,400 units
-- **March**: 1,500 units
-- **April**: 1,600 units
-- **May**: 1,500 units
-- **June**: 1,400 units
-- **July**: 1,500 units
-- **August**: 1,400 units
-- **September**: 1,500 units
-- **October**: 1,600 units
-- **November**: 1,500 units
-- **December**: 1,600 units
+
+![image](https://github.com/user-attachments/assets/23707013-28de-474d-9286-fcc9a51a81ac)
 
 ### Customer Ratings
 The customer ratings are classified as follows:
-- **Good**: 100%
-- **Average**: 28%
-- **Poor**: 0.85%
+
+![image](https://github.com/user-attachments/assets/881ad0a8-797d-40ec-aeaa-c0eacbe8a9af)
+
 
 ### Transactions by Payment Method
 Transactions are evenly distributed across different payment methods:
-- **UPI**: 1,000 (24.2%)
-- **Debit Card**: 1,000 (24.2%)
-- **Credit Card**: 1,000 (24.2%)
-- **Cash**: 1,000 (24.2%)
+
+![image](https://github.com/user-attachments/assets/772a4948-127b-4ba3-9c6c-72a120f2ffc1)
+
 
 ### Sales by Mobile Model
-The total sales for each mobile model are as follows:
-- **Apple**: ₹161.52M (703 transactions)
-- **OnePlus**: ₹161.52M (703 transactions)
-- **Samsung**: ₹161.52M (703 transactions)
-- **Vivo**: ₹161.52M (703 transactions)
-- **Total**: ₹769.20M (3,835 transactions)
+Top 3 Total sales by Mobile model:
+![image](https://github.com/user-attachments/assets/37ba9a21-d22f-4a00-a72d-e0d517e432d6)
+
 
 ### Sales by Day of the Week
 The sales distribution across days of the week is even:
-- **Sunday**: ₹100M
-- **Monday**: ₹100M
-- **Tuesday**: ₹100M
-- **Wednesday**: ₹100M
-- **Thursday**: ₹100M
-- **Friday**: ₹100M
-- **Saturday**: ₹100M
+
+![image](https://github.com/user-attachments/assets/48b3b490-2691-44e8-98b2-a2d5bca8dd2e)
+
 
 ---
 
